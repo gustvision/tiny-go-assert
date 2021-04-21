@@ -1,3 +1,3 @@
-module github.com/KarineValenca/tiny-go-assert
+module github.com/gustvision/tiny-go-assert
 
 go 1.16
